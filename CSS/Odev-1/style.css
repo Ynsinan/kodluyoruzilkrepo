@@ -106,9 +106,9 @@ footer{
 }
 
 /* Urunler Sayfası */
+
 .catalog-category {
     margin-top:3rem;
-
     height: auto;
     display: flex;
     flex-wrap: wrap;
